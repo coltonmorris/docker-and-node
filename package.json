@@ -2,7 +2,7 @@
   "name": "docker_helloworld",
   "version": "1.0.0",
   "description": "Testing nodejs and docker together",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
